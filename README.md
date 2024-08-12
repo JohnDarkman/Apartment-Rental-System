@@ -1,4 +1,4 @@
-Level 2 Semester 2 Project : Apartment Rental System
+Diploma Semester 3 Project : Apartment Rental System
 
 Description: A Python-based system for managing and sorting apartment rentals. Designed to handle apartment and tenant data, and provide functionalities for viewing, searching, and sorting apartments.
 
